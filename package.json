@@ -1,7 +1,8 @@
 {
   "name": "weather",
-  "version": "1.6.0",
-  "private": true,
+  "version": "1.6.1",
+  "license": "MIT",
+  "author": "Andrii Nastenko",
   "dependencies": {
     "axios": "^0.20.0",
     "leaflet": "^1.7.1",
@@ -37,7 +38,7 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.14.1",
-    "redux-devtools-extension": "^2.13.8"
+    "redux-devtools-extension": "^2.13.8",
+    "sass": "^1.30.0"
   }
 }
